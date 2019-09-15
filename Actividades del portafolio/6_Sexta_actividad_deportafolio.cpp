@@ -40,7 +40,7 @@ int main(){
 	if(i == -1){
 		cout << "Numero no encontrado";
 	}else{
-		cout << "el elemento se encuentrra en la casilla: " << i << endl;
+		cout << "el elemento se encuentra en la casilla: " << i << endl;
 	}
 	
 }
